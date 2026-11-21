@@ -1,1 +1,1 @@
-![Background](BlueBackground.jpg)   
+![Background](Blue.png)   
